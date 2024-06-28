@@ -23,7 +23,7 @@ dependencies:
 
 
 # Wave Animation Flutter Package
-
+```
 A Flutter package that provides a customizable wave animation widget with gradient support.
 
 ![Wave Animation Demo](demo.gif)
